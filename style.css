@@ -46,3 +46,14 @@
 .menu-item a:hover{
     text-decoration: underline;
 }
+
+.hero-section-container{
+    display: flex;
+    justify-content: center;
+}
+
+.hero-section{
+    width: 1300px;
+    display: flex;
+    justify-content: space-around;
+}
