@@ -99,7 +99,7 @@
 .projects-container{
     display: flex;
     justify-content: center;
-    padding: 75px 0 0 0;
+    padding: 75px 0 75px 0;
 }
 
 .projects{
@@ -128,4 +128,27 @@
     height: 150px;
     border: 3px solid #3882F6;
     border-radius: 12px;
+}
+
+.quote-section{
+    background-color: #E5E7EB;
+    padding: 150px 0 150px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-section-container{
+    width: 1000px;
+}
+
+.quote i{
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter
+}
+
+.quotee{
+    text-align: right;
+    font-weight: bolder;
 }
