@@ -178,3 +178,19 @@
     color: #E5E7EB;
     border: 2px solid #E5E7EB;
 }
+
+.footer-section{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding: 25px 0 25px 0;
+}
+
+.footer-container{
+    width: 1300px;
+    text-align: center;
+}
+
+.footer-container p{
+    color: #E5E7EB;
+}
